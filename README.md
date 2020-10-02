@@ -1,6 +1,6 @@
-# TP1 - Le projet de recherche
+### TP1 - Le projet de recherche
 
-## Consignes :
+#### Consignes :
 - Le projet porte sur une **problématique en sciences sociales**.
 - La problématique peut être explorée à partir de **données existantes**.
 - Le projet contient **5 références d'articles scientifiques** pertinentes ou plus.
@@ -8,7 +8,7 @@
 - Le projet de recherche complet doit faire **2 pages**.
 - Tout ce qui se trouve au-dessus du titre du projet est **à supprimer**.
 
-#### À titre informatif:
+##### À titre informatif:
 - 1 page = ~ 5 paragraphes
 - 1 paragraphe = ~ 5 phrases
 - 1 phrase = ~ 20 mots
