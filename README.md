@@ -47,8 +47,7 @@ Présentez vos données et votre démarche méthodologique. Similaire à une rec
 - Pourquoi est-ce que la méthode qualitative est pertinente pour répondre à cette question (aidez-vous de l'introduction)?
 - Quelles seront vos sources de données?
 - Comment allez-vous collecter les données? Sur quelle période?
-- Comment allez-vous analyser les données?
-- Comment allez-vous coder?
+- Comment allez-vous analyser/coder les données?
 
 #### Biais, éthique et gestion des données
 
